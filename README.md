@@ -1,7 +1,7 @@
 ### Hi there 👋 I’m Wali Eldin 
 
 
-- 🔭 I’m currently working on Nexa-technology as Software Engineering 
+- 🔭 I’m currently a  Software Engineering 
 - 🌱 I’m currently learning Flutter  and machine learning
 - 💬 Ask me about laravel and Flutter
 - 📫 How to reach me:@cre_al
