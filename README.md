@@ -1,5 +1,11 @@
 # Hi there 👋
 
+- 🔭 I’m currently a  Software Engineering 
+- 🌱 I’m currently learning Flutter  and machine learning
+- 💬 Ask me about laravel and Flutter
+- 📫 How to reach me:@cre_al
+- ⚡ Fun fact: testing always win 💙
+
 ## :heart:
 
 :tea: :coffee: :cat: :sunflower: :palm_tree: :musical_note: :swimmer: :walking: :globe_with_meridians:
@@ -12,15 +18,6 @@
 </a>
 
 ## :newspaper:
-
-[My Gists](https://gist.github.com/creaspo23)
-
-## :seedling:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=creaspo23&repo=sma-2nd-ed-overview&show_owner=true&theme=radical&border_radius=10)](https://github.com/creaspo23/sma-2nd-ed-overview)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=creaspo23&repo=terraform-associate-certification-course-freecodecamp&show_owner=true&theme=radical&border_radius=10)](https://github.com/creaspo23/terraform-associate-certification-course-freecodecamp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=creaspo23&repo=kubernetes-related&show_owner=true&theme=radical&border_radius=10)](https://github.com/creaspo23/kubernetes-related)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=creasppo23&repo=bootstrapping-microservices-overview&show_owner=true&theme=radical&border_radius=10)](https://github.com/creaspo23/bootstrapping-microservices-overview)
 
 ## :trophy:
 
