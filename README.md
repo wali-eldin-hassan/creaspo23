@@ -1,12 +1,14 @@
 # Hi there 👋
 
+## :heart:
+
 - 🔭 I’m currently a  Software Engineering 
 - 🌱 I’m currently learning Flutter  and machine learning
 - 💬 Ask me about laravel and Flutter
 - 📫 How to reach me:@cre_al
 - ⚡ Fun fact: testing always win 💙
 
-## :heart:
+
 
 :tea: :coffee: :cat: :sunflower: :palm_tree: :musical_note: :swimmer: :walking: :globe_with_meridians:
 
@@ -17,7 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creaspo23&layout=compact&theme=radical&border_radius=20" />
 </a>
 
-## :newspaper:
 
 ## :trophy:
 
